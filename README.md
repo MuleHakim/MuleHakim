@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-# Muluken Hakim
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Muluken. </a></p>
+<br />
 I'm Muluken from Ethiopia and I'm machine learning student at Addis Ababa Institute of Technology.
 
 
@@ -8,3 +9,9 @@ I'm Muluken from Ethiopia and I'm machine learning student at Addis Ababa Instit
 * Machine Learning
 * Python
 * Problem Solving
+ 
+
+| <a href="https://github.com/MuleHakim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MuleHakim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/MuleHakim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuleHakim&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+- 💬 Ask me about anything [here](https://github.com/MuleHakim/MuleHakim/issues)
