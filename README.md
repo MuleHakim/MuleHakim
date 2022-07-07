@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Muluken. </a></p>
+# Muluken Hakim
 <br />
 I'm Muluken from Ethiopia and I'm machine learning student at Addis Ababa Institute of Technology.
 
