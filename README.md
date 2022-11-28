@@ -11,8 +11,9 @@ I'm Muluken from Ethiopia and I'm machine learning student at Addis Ababa Instit
 * Seaborn
 * Tensorflow
 * Scikit_learn
-* Problem Solving
+* Deep Learning
 * Machine Learning
+* Data Structure and Algorithm
 * NLTK (Natural Language Tool Kit)
 
 
