@@ -15,10 +15,10 @@ I'm Muluken from Ethiopia and I'm machine learning student at Addis Ababa Instit
 * Deep Learning
 * Machine Learning
 * Data Structure and Algorithm
-* ANN (Artificial Neural Network)
-* CNN (Convolutional Neural Network)
 * RNN (Recurrent Neural Network)
+* ANN (Artificial Neural Network)
 * NLTK (Natural Language Tool Kit)
+* CNN (Convolutional Neural Network)
 
 
 | <a href="https://github.com/MuleHakim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MuleHakim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/MuleHakim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuleHakim&layout=compact&theme=buefy&hide_border=true" /></a> |
