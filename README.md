@@ -16,7 +16,6 @@ I'm Muluken from Ethiopia and I'm machine learning student at Addis Ababa Instit
 * Machine Learning
 * Data Structure and Algorithm
 * ANN (Artificial Neural Network)
-* RNN (Recurrent Neural Network)
 * NLTK (Natural Language Tool Kit)
 * CNN (Convolutional Neural Network)
 
