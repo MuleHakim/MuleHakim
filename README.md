@@ -8,12 +8,12 @@
 
 <br><br>
 
-<p align="center"> 
+<!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Mr-MaNia7&label=Profile%20views&color=0e75b6&style=plastic" alt="MuleHakim" /> 
 	<a href = "https://commits.top/ethiopia.html" target="_blank">
 		<img src="https://gist.github.com/mulehakim/7df5af6e972f734bb9793bcc53ec8a9b#file-github-rank-svg" alt="MuleHakim" target="_blank"/> 
 	</a>
-</p>
+</p> -->
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**d
 
