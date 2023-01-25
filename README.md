@@ -11,11 +11,11 @@
 <!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Mr-MaNia7&label=Profile%20views&color=0e75b6&style=plastic" alt="Mr-MaNia7" /> 
 	<a href = "https://commits.top/ethiopia.html" target="_blank">
-		<img src="https://gist.github.com/Mr-MaNia7/7df5af6e972f734bb9793bcc53ec8a9b#file-github-rank-svg" alt="Mr-MaNia7" target="_blank"/> 
+		<img src="https://gist.github.com/mulehakim/7df5af6e972f734bb9793bcc53ec8a9b#file-github-rank-svg" alt="Mr-MaNia7" target="_blank"/> 
 	</a>
 </p> -->
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**d
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -42,7 +42,6 @@
 - **Languages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <br>
@@ -78,13 +77,13 @@
     
     <p>
       &emsp;
-        <a href="https://codeforces.com/profile/MaNia-7" target="_blank"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+        <a href="https://codeforces.com/profile/mulehakim" target="_blank"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
       &emsp;
-        <a href="https://leetcode.com/mania7/" target="_blank"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+        <a href="https://leetcode.com/mulehakim/" target="_blank"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
       &emsp;
-        <a href="https://www.hackerrank.com/getachewabdulka1" target="_blank"><img alt = "HackerRank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+        <a href="https://www.hackerrank.com/mulehakim" target="_blank"><img alt = "HackerRank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
       &emsp;
-        <a href="https://auth.geeksforgeeks.org/user/abdulkarim0j62/profile" target="_blank"><img alt = "GeeksForGeeks" src="https://img.shields.io/badge/Geeks%20For%20Geeks-%232EC866.svg?style=plastic&logo=geeksforgeeks&logoColor=white" /></a>
+        <a href="https://auth.geeksforgeeks.org/user/mulehakim/profile" target="_blank"><img alt = "GeeksForGeeks" src="https://img.shields.io/badge/Geeks%20For%20Geeks-%232EC866.svg?style=plastic&logo=geeksforgeeks&logoColor=white" /></a>
     </p>
 
 <br>
@@ -124,10 +123,10 @@
 
 <div align="center">
 
-  <a href="https://github.com/Mr-MaNia7/">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mr-MaNia7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-MaNia7&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Mr-MaNia7"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Mr-MaNia7&layout=compact&theme=algolia" alt="Mr-MaNia7" />
+  <a href="https://github.com/mulehakim/">
+    <img src="https://github-readme-stats.vercel.app/api?username=mulehakim&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mulehakim&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="mulehakim"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mulehakim&layout=compact&theme=algolia" alt="mulehakim" />
   </a>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -144,15 +143,15 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/abdulkarim-getachew-b3b0201b1/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Abdulkarim-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/mulukenhakim/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Muluken-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://t.me/mr_r030t" target="_blank">
+<a href="https://t.me/setura1" target="_blank">
 <img src="https://img.shields.io/badge/telegram:  mr_r030t-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=telegram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -160,8 +159,8 @@
 <br>
 
 <li>
-<a href="mailto:abdulkarimgmohammed@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Abdulkarim-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:mulukenhakim97@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Muluken-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -172,7 +171,3 @@
 
 ----
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid) Last Edited on: 09/11/2022
-
-<!-- <div align='center'>
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-</div> -->
