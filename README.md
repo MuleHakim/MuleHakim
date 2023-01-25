@@ -8,12 +8,12 @@
 
 <br><br>
 
-<!-- <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Mr-MaNia7&label=Profile%20views&color=0e75b6&style=plastic" alt="Mr-MaNia7" /> 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Mr-MaNia7&label=Profile%20views&color=0e75b6&style=plastic" alt="MuleHakim" /> 
 	<a href = "https://commits.top/ethiopia.html" target="_blank">
-		<img src="https://gist.github.com/mulehakim/7df5af6e972f734bb9793bcc53ec8a9b#file-github-rank-svg" alt="Mr-MaNia7" target="_blank"/> 
+		<img src="https://gist.github.com/mulehakim/7df5af6e972f734bb9793bcc53ec8a9b#file-github-rank-svg" alt="MuleHakim" target="_blank"/> 
 	</a>
-</p> -->
+</p>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**d
 
@@ -26,7 +26,7 @@
 - Currently learning ML
 - Researcher and Complex Problem Solver
 - A passionate Football Player
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1zMInZmc67b3y7pTInaygtAuAciK5elWoEYuUpBoDaKQ/edit?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1gF8pkVGFBp-yz8L-9bq7PaEuBiFhN7Qxd9jPEFIoumU/edit#heading=h.7ftibfzbxdz0)
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 
 <br><br>
@@ -152,7 +152,7 @@
 
 <li>
 <a href="https://t.me/setura1" target="_blank">
-<img src="https://img.shields.io/badge/telegram:  mr_r030t-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=telegram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/telegram:  MuleHakim-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=telegram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
