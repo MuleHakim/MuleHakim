@@ -22,11 +22,10 @@
 <br>
 
 - An AI Enthusiast
-- A Full-stack Engineer
-- Currently learning ML
+- Machine learning Engineer
+- A Python Engineer
 - Researcher and Complex Problem Solver
-- A passionate Football Player
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1gF8pkVGFBp-yz8L-9bq7PaEuBiFhN7Qxd9jPEFIoumU/edit#heading=h.7ftibfzbxdz0)
+- I’m currently open for a new job opportunity
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 
 <br><br>
