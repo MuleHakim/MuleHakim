@@ -23,7 +23,7 @@
 
 - An AI Enthusiast
 - Machine learning Engineer
-- A Python Engineer
+- A Python Developer
 - Researcher and Complex Problem Solver
 - I’m currently open for a new job opportunity
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
