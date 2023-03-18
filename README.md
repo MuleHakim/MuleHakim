@@ -50,6 +50,7 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![NumPy](https://img.shields.io/badge/NumPy%20-%23F7DF1E.svg?style=for-the-badge&logo=numpy&logoColor=black)
     ![Tensorflow](https://img.shields.io/badge/Tensorflow%20-%2300599C.svg?style=for-the-badge&logo=Tensorflow%2B%2B&logoColor=white)
+    ![Keras](https://img.shields.io/badge/Keras%20-%2314354C.svg?style=for-the-badge&logo=keras&logoColor=white)
     ![Scikit_learn](https://img.shields.io/badge/Scikit_learn%20-%23E34F26.svg?style=for-the-badge&logo=Scikit_learn&logoColor=white)
     ![Pandas](https://img.shields.io/badge/Pandas%20-%2300599C.svg?style=for-the-badge&logo=Pandas%2B%2B&logoColor=white)    
 
