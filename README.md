@@ -65,23 +65,6 @@
 - **Back-End Development**:
 
    ![Django](https://img.shields.io/badge/Django-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white)
-   ![Spring Boot](https://img.shields.io/badge/SpringBoot-%23054020.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
-   ![Flask](https://img.shields.io/badge/Flask%20-%23F7DF1E.svg?style=for-the-badge&logo=flask&logoColor=black)
-
-<br>
-
-- **Competitive Programming & Problem Solving** 
-    
-    <p>
-      &emsp;
-        <a href="https://codeforces.com/profile/mulehakim" target="_blank"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-      &emsp;
-        <a href="https://leetcode.com/mulehakim/" target="_blank"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-      &emsp;
-        <a href="https://www.hackerrank.com/mulehakim" target="_blank"><img alt = "HackerRank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-      &emsp;
-        <a href="https://auth.geeksforgeeks.org/user/mulehakim/profile" target="_blank"><img alt = "GeeksForGeeks" src="https://img.shields.io/badge/Geeks%20For%20Geeks-%232EC866.svg?style=plastic&logo=geeksforgeeks&logoColor=white" /></a>
-    </p>
 
 <br>
 
@@ -89,25 +72,6 @@
 
     ![Heroku](https://img.shields.io/badge/Heroku-%232C2255.svg?style=for-the-badge&logo=heroku&logoColor=white)
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </p>
 
