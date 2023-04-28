@@ -42,36 +42,12 @@
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
-
-<br>
-
-- **AI Tools**:
-    
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![NumPy](https://img.shields.io/badge/NumPy%20-%23F7DF1E.svg?style=for-the-badge&logo=numpy&logoColor=black)
     ![Tensorflow](https://img.shields.io/badge/Tensorflow%20-%2300599C.svg?style=for-the-badge&logo=Tensorflow%2B%2B&logoColor=white)
     ![Keras](https://img.shields.io/badge/Keras%20-%2314354C.svg?style=for-the-badge&logo=keras&logoColor=white)
-    ![Scikit_learn](https://img.shields.io/badge/Scikit_learn%20-%23E34F26.svg?style=for-the-badge&logo=Scikit_learn&logoColor=white)
     ![Pandas](https://img.shields.io/badge/Pandas%20-%2300599C.svg?style=for-the-badge&logo=Pandas%2B%2B&logoColor=white)    
-
-<br>
-    
-- **Front-End Development**:
-	
    ![Flutter](https://img.shields.io/badge/Flutter-0078d7.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
-<br>
-
-- **Back-End Development**:
-
    ![Django](https://img.shields.io/badge/Django-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Heroku](https://img.shields.io/badge/Heroku-%232C2255.svg?style=for-the-badge&logo=heroku&logoColor=white)
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </p>
 
