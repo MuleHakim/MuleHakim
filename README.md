@@ -42,10 +42,8 @@
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![NumPy](https://img.shields.io/badge/NumPy%20-%23F7DF1E.svg?style=for-the-badge&logo=numpy&logoColor=black)
     ![Tensorflow](https://img.shields.io/badge/Tensorflow%20-%2300599C.svg?style=for-the-badge&logo=Tensorflow%2B%2B&logoColor=white)
     ![Keras](https://img.shields.io/badge/Keras%20-%2314354C.svg?style=for-the-badge&logo=keras&logoColor=white)
-    ![Pandas](https://img.shields.io/badge/Pandas%20-%2300599C.svg?style=for-the-badge&logo=Pandas%2B%2B&logoColor=white)    
    ![Flutter](https://img.shields.io/badge/Flutter-0078d7.svg?style=for-the-badge&logo=flutter&logoColor=white)
    ![Django](https://img.shields.io/badge/Django-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white)
 
@@ -58,11 +56,21 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
   <a href="https://github.com/mulehakim/">
     <img src="https://github-readme-stats.vercel.app/api?username=mulehakim&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mulehakim&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="mulehakim"/>
+</div> -->
+<div width="100%" class="flex-container"><!-- .element: style="display: flex; flex-direction: row; flex-wrap:wrap; justify-content: space-between" -->
+
+       
+<img style="background-color:dodgerblue;margin:100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuleHakim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" /> 
+  
+       
+<img style="background-color:dodgerblue" src="https://github-readme-stats.vercel.app/api?username=MuleHakim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=1a1b27&text_color=1bbdab" />
+
+
 </div>
 
 <br><br>
