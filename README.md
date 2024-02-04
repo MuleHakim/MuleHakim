@@ -39,8 +39,8 @@
 
     
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/Java%20-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/Flutter-0078d7.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript%20-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-0078d7.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow%20-%2300599C.svg?style=for-the-badge&logo=Tensorflow%2B%2B&logoColor=white)
 
@@ -85,17 +85,6 @@
 <img src="https://img.shields.io/badge/linkedin:  Muluken-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<br>
-
-<li>
-<a href="https://t.me/setura1" target="_blank">
-<img src="https://img.shields.io/badge/telegram:  MuleHakim-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=telegram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
 <li>
 <a href="mailto:mulukenhakim97@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Muluken-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
