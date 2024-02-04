@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Muluken Hakim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/mulehakim/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile+&hearts;++;Software+Engineering(AI);Interested+in+ML;Python+Developer;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/mulehakim/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile+&hearts;++;Software+Engineering(AI);Full+Stack+Developer+(Django+and+React);Python+Developer;Active+Learner;Interested+in+ML;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 ----
@@ -22,11 +22,10 @@
 <br>
 
 - An AI Enthusiast
-- Machine learning Engineer
 - A Python Developer
-- Researcher and Complex Problem Solver
+- Machine learning Student
+- Full-Stack Developer(Django and React)
 - I’m currently open for a new job opportunity
-<!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 
 <br><br>
 
@@ -38,14 +37,12 @@
 
 <p align="center">
 
-- **Languages**:
     
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![Tensorflow](https://img.shields.io/badge/Tensorflow%20-%2300599C.svg?style=for-the-badge&logo=Tensorflow%2B%2B&logoColor=white)
-    ![Keras](https://img.shields.io/badge/Keras%20-%2314354C.svg?style=for-the-badge&logo=keras&logoColor=white)
-   ![Flutter](https://img.shields.io/badge/Flutter-0078d7.svg?style=for-the-badge&logo=flutter&logoColor=white)
-   ![Django](https://img.shields.io/badge/Django-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/Java%20-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/Flutter-0078d7.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow%20-%2300599C.svg?style=for-the-badge&logo=Tensorflow%2B%2B&logoColor=white)
 
 </p>
 
